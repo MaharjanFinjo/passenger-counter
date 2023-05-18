@@ -1,9 +1,5 @@
 # passenger-counter
 
+https://passenger-counter-japan.netlify.app
 
-Quick start:
 
-```
-$ npm install
-$ npm start
-````
